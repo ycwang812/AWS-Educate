@@ -1,2 +1,3 @@
-# AWS-Educate
-AWS Educate
+# AWS Educate
+
+https://aws.amazon.com/tw/education/awseducate/
