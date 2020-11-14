@@ -10,3 +10,4 @@ AWS Educate Login - https://www.awseducate.com/signin/SiteLogin
 
 Hands-on Activities Guide - http://awseducatehandson.s3-website-us-east-1.amazonaws.com
 
+![](https://github.com/ycwang812/AWS-Educate/blob/master/images/Hands-on%20Activities%20Guide.png)
